@@ -1,6 +1,7 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YouXianMing&&theme=buefy)](https://github.com/YouXianMing/github-readme-stats)
+[![YouXianMing's github stats](https://github-readme-stats.vercel.app/api?username=YouXianMing&&theme=buefy)](https://github.com/YouXianMing)
 
 <!--
+https://github.com/anuraghazra/github-readme-stats/tree/master/themes
 **YouXianMing/YouXianMing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
