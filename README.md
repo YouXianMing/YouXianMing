@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YouXianMing&&theme=buefy)](https://github.com/YouXianMing/github-readme-stats)
 
 <!--
 **YouXianMing/YouXianMing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
