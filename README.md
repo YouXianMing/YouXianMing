@@ -1,9 +1,9 @@
-![image](https://images0.cnblogs.com/blog/607542/201409/231942047644298.gif)
-
 [![YouXianMing's github stats](https://github-readme-stats.vercel.app/api?username=YouXianMing&&theme=buefy&show_icons=true&hide=contribs)](https://github.com/YouXianMing)
 
 <!--
 https://github.com/anuraghazra/github-readme-stats/tree/master/themes
+
+![image](https://images0.cnblogs.com/blog/607542/201409/231942047644298.gif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouXianMing)](https://github.com/YouXianMing/github-readme-stats)
 
