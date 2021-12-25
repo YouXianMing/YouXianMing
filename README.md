@@ -2,6 +2,11 @@
 
 <!--
 https://github.com/anuraghazra/github-readme-stats/tree/master/themes
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouXianMing)](https://github.com/YouXianMing/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouXianMing&layout=compact)](https://github.com/YouXianMing/github-readme-stats)
+
 **YouXianMing/YouXianMing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
